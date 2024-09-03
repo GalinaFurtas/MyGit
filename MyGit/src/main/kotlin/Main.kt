@@ -3,6 +3,9 @@ package org.example
 
 fun main() {
 
-    println("Hello, Galya!!!")
+    print("Hello")
+    println(" everybody!!!")
+    println()
+    println("I'm Galina Furtas")
 
    }
